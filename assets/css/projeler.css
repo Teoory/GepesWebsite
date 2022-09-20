@@ -1,0 +1,75 @@
+.Projelerimiz,
+.map-clean {
+  color: #313437;
+  background-color: #fff;
+  padding-bottom: 50px;
+}
+.Projelerimiz p,
+.features-boxed p,
+.highlight-phone p,
+.map-clean p,
+.testimonials-clean p {
+  color: #7d8285;
+}
+.Projelerimiz h2,
+.features-boxed h2,
+.map-clean h2,
+.testimonials-clean h2 {
+  font-weight: 700;
+  margin-bottom: 40px;
+  padding-top: 100px;
+  color: inherit;
+}
+.Projelerimiz .intro,
+.features-boxed .intro,
+.testimonials-clean .intro {
+  font-size: 16px;
+  max-width: 500px;
+  margin: 0 auto;
+}
+#team ul.social-buttons,
+.Projelerimiz .intro p,
+.features-boxed .intro p,
+.testimonials-clean .intro p {
+  margin-bottom: 0;
+}
+.Projelerimiz .projeler {
+  padding-bottom: 40px;
+}
+.Projelerimiz .item {
+  padding-top: 50px;
+  min-height: 425px;
+  text-align: center;
+}
+.Projelerimiz .item .name {
+  font-weight: 700;
+  font-size: 16px;
+  margin-top: 20px;
+  color: inherit;
+}
+.Projelerimiz .item .description {
+  font-size: 14px;
+  margin-top: 15px;
+  margin-bottom: 0;
+}
+.Projelerimiz .item .action {
+  font-size: 24px;
+  width: 24px;
+  margin: 22px auto 0;
+  line-height: 1;
+  display: block;
+  color: #4f86c3;
+  opacity: 0.85;
+  transition: opacity 0.2s;
+  text-decoration: none;
+}
+.Projelerimiz .item .action:hover,
+.contact-clean form .btn:hover,
+.highlight-phone .intro .btn:hover,
+.newsletter-subscribe form .btn:hover {
+  opacity: 1;
+}
+#services {
+  padding-top: 80px;
+  background: #efefef;
+}

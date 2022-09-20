@@ -1,0 +1,70 @@
+/* external css: flickity.css */
+
+
+
+.carousel {
+  background-color: #fff;
+}
+
+.carousel-cell {
+  width: 400px;
+  height: 400px;
+  display: block;
+  align-items: center;
+  margin-right: 40px;
+  background: #006b9c;
+  border-radius: 5px;
+  justify-content: center;
+}
+
+
+.carousel-cell img {
+  display: block;
+  height: 250px;
+  width: 100%;
+}
+
+/* cell number */
+.carousel-cell:before {
+  display: block;
+  text-align: center;
+  line-height: 200px;
+  font-size: 80px;
+  color: white;
+}
+
+.post {
+  background-color: #fff;
+  margin-top: 50px;
+  padding-bottom: 30px;
+}
+.post h2{
+  text-align: center;
+  color: #5f5e5eb9;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 30px;
+  font-weight: 800;
+  text-transform: uppercase;
+  text-decoration: none;
+}
+
+.post .baslik{
+  text-align: center;
+  color: #ffffff;
+  font-weight: 400;
+  text-transform: uppercase;
+  text-decoration: none;
+}
+
+.post .p4{
+  text-align: center;
+  color: #838282c0;
+  text-decoration: double;
+  font-weight: 700;
+}
+.post .p2{
+  color: #fff;
+  font-weight: 400;
+  text-align: center;
+  display: flex;
+}
