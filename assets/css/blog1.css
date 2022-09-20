@@ -1,0 +1,21 @@
+.grid {
+    background-color: rgb(255, 255, 255);
+    padding-top: 50px;
+    margin-right: 400px;
+    padding-bottom: 500px;
+}
+
+.baslik {
+    color: black;
+    text-decoration: none;
+    text-align: start;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: xx-large;
+    font-weight: bold;
+}
+
+.grid .paragraf {
+ margin-top: 50px;
+ margin-left: 500px;
+ font-size: 36px;
+}
